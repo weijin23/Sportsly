@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B3DFBF7-46BE-4763-BB99-21BD058C1EB0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Wall</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A9B7534F-716D-4591-B622-DCD67A9D7517</key>
+		<string>https://github.com/devinross/tapkulibrary.git</string>
+		<key>ECC258F7-C7B0-4CF7-9029-9472C094BDD5</key>
+		<string>https://bitbucket.org/mindpaceios/sportsly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Wall.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A9B7534F-716D-4591-B622-DCD67A9D7517</key>
+		<string>../../../../../tapkulibrary</string>
+		<key>ECC258F7-C7B0-4CF7-9029-9472C094BDD5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/mindpaceios/sportsly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECC258F7-C7B0-4CF7-9029-9472C094BDD5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECC258F7-C7B0-4CF7-9029-9472C094BDD5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Social</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A9B7534F-716D-4591-B622-DCD67A9D7517</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tapkulibrary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
